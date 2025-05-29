@@ -11,6 +11,6 @@ fun main() {
     for (quotesTwo: Element in quotes) {
         println("${quotesTwo.select(".bzpNIu")}")
     }
-            //println(quotes)
+
 
 }
